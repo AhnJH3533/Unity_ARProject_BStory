@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "835293766024",
+    "firebase_url": "https://fir-db03-78258879.firebaseio.com",
+    "project_id": "firebasedb03-78258879",
+    "storage_bucket": "firebasedb03-78258879.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:835293766024:android:6c9c9a4139f192c89e5a3d",
+        "android_client_info": {
+          "package_name": "com.BStory.FBDBTest03"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "835293766024-hq868j640fsdnek1s6pfjqa4muc9vcas.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDf_90J_rVqg30y0wRW7yrQSkHTDZp6TNU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "835293766024-hq868j640fsdnek1s6pfjqa4muc9vcas.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
